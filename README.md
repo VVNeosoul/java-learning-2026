@@ -1,15 +1,22 @@
 # Java Learning 2026
 
-Java学習と日本でのIT就職活動の記録です。
+日本でJavaエンジニアとして就職するための学習記録です。
 
 ## Goal
 
 - Java
 - Spring Boot
 - MySQL
-- Git
+- Git / GitHub
 - AWS
+
+## Learning Log
+
+### Day 1
+- Java development environment setup
+- First Java program
+- GitHub repository created
 
 ## Target
 
-Javaエンジニアとして日本で就職すること。
+Javaエンジニアとして日本のIT企業に就職すること。
