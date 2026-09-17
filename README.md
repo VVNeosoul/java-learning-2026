@@ -17,6 +17,13 @@
 - First Java program
 - GitHub repository created
 
+- ### Day 2
+- Variables
+- Primitive data types
+- String
+- if / else if / else
+- Basic logical operators
+
 ## Target
 
 Javaエンジニアとして日本のIT企業に就職すること。
