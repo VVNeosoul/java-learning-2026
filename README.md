@@ -24,6 +24,13 @@
 - if / else if / else
 - Basic logical operators
 
+- ### Day 3
+- switch
+- for loop
+- while loop
+- arrays
+- enhanced for loop
+
 ## Target
 
 Javaエンジニアとして日本のIT企業に就職すること。
