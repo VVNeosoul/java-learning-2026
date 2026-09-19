@@ -31,6 +31,13 @@
 - arrays
 - enhanced for loop
 
+- ### Day 4
+- methods
+- parameters
+- return values
+- String methods
+- Scanner input
+
 ## Target
 
 Javaエンジニアとして日本のIT企業に就職すること。
