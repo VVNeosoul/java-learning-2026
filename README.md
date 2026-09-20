@@ -45,6 +45,13 @@
 - encapsulation
 - getter / setter
 
+- ### Day 6
+- inheritance
+- extends
+- super
+- method overriding
+- polymorphism
+
 ## Target
 
 Javaエンジニアとして日本のIT企業に就職すること。
