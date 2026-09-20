@@ -38,6 +38,13 @@
 - String methods
 - Scanner input
 
+- ### Day 5
+- classes and objects
+- constructors
+- fields and methods
+- encapsulation
+- getter / setter
+
 ## Target
 
 Javaエンジニアとして日本のIT企業に就職すること。
