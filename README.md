@@ -52,6 +52,13 @@
 - method overriding
 - polymorphism
 
+- ### Day 7
+- abstract classes
+- interfaces
+- extends
+- implements
+- polymorphism with interfaces
+
 ## Target
 
 Javaエンジニアとして日本のIT企業に就職すること。
