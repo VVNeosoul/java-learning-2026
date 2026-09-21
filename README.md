@@ -59,6 +59,13 @@
 - implements
 - polymorphism with interfaces
 
+- ### Day 8
+- try / catch
+- multiple catch blocks
+- finally
+- throw / throws
+- custom exceptions
+
 ## Target
 
 Javaエンジニアとして日本のIT企業に就職すること。
