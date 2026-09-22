@@ -66,6 +66,13 @@
 - throw / throws
 - custom exceptions
 
+- ### Day 9
+- ArrayList
+- HashSet
+- HashMap
+- collection iteration
+- simple employee management
+
 ## Target
 
 Javaエンジニアとして日本のIT企業に就職すること。
