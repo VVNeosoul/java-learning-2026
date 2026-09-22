@@ -73,6 +73,15 @@
 - collection iteration
 - simple employee management
 
+- ### Day 10
+- generics
+- lambda expressions
+- Stream API
+- filter
+- map
+- forEach
+- toList
+
 ## Target
 
 Javaエンジニアとして日本のIT企業に就職すること。
