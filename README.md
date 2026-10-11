@@ -82,6 +82,16 @@
 - forEach
 - toList
 
+- ### Day 11
+- JDBC basics
+- database connection
+- Connection
+- Statement
+- PreparedStatement
+- ResultSet
+- executeQuery
+- executeUpdate
+
 ## Target
 
 Javaエンジニアとして日本のIT企業に就職すること。
